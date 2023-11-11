@@ -1,4 +1,4 @@
-![logo](https://github.com/Musaeeb-Zahir/Musaeeb-zahir/blob/main/Tim%20Ashton%20(3).png)
+![logo]([https://github.com/Musaeeb-Zahir/Musaeeb-zahir/blob/main/Tim%20Ashton%20(3).png](https://github.com/Musaeeb-Zahir/Musaeeb-zahir/blob/main/Blue%20Pink%20Gradient%20Fashion%20Banner.png))
 <h1 align="center">Hi 👋, I'm Musaeeb zahir</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
 <img align="right"alt="coding" width="400" src="https://user-image.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
