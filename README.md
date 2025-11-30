@@ -1,4 +1,4 @@
-![logo](https://github.com/Musaeeb-Zahir/Musaeeb-zahir/blob/main/linkedin.png)
+![logo](https://github.com/Musaeeb-Zahir/Musaeeb-zahir/blob/main/newbanner.png)
 <h1 align="center">Hi 👋, I'm Musaeeb zahir</h1>
 <h3 align="center">A passionate web developer from pakistan</h3>
 <h3 target="_blank"><a href="https://musaeebzahir.netlify.app" target="_blank">MY Portfolio</a></h3
